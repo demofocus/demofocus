@@ -14,7 +14,7 @@ I've worked on the following over the years:
 # 📱 Socials
 Feel free to follow me on the following platforms:
 
-[X](https://x.com/demofocusRB)
-[Roblox](https://www.roblox.com/users/1629330294/profile)
-[Twitch](https://www.twitch.tv/demofocus)
-[YouTube](https://www.youtube.com/demofocus)
+- [X](https://x.com/demofocusRB)
+- [Roblox](https://www.roblox.com/users/1629330294/profile)
+- [Twitch](https://www.twitch.tv/demofocus)
+- [YouTube](https://www.youtube.com/demofocus)
