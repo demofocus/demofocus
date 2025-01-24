@@ -2,6 +2,12 @@
 
 I am a programmer learning on-the-job on the Roblox platform. I originally joined Roblox on November 21st 2012 and I attended multiple events including Bloxcon and RDC!
 
+Over the years I have gained experience in sword clans, trading, QA testing and now developing. My contributions amount to a solid 700M+ visits overall.
+
+I've held high profile roles in groups such as [Trade.](https://www.roblox.com/communities/650266/Trade#!/about), [The Sky Clan of Roblox](https://www.roblox.com/communities/129425/The-Sky-Clan-of-ROBLOX#!/about) and most major sword clans of the early-mid 2010s.
+
+I enjoy working in the Ro-Football genre these days, constantly trying to improve my knowledge and understanding of how things work and how I can improve the genre for the better.
+
 I've worked on the following over the years:
 
 - [Tactical Football (Coming Soon)](https://www.roblox.com/games/101002292692997/IN-DEV-Tactical-Football)
@@ -12,9 +18,8 @@ I've worked on the following over the years:
 - [TPS: Infinite Soccer](https://www.roblox.com/games/15862383840/TPS-Infinite-Soccer)
 
 # 📱 Socials
-Feel free to follow me on the following platforms:
 
-- [X](https://x.com/demofocusRB)
-- [Roblox](https://www.roblox.com/users/1629330294/profile)
-- [Twitch](https://www.twitch.tv/demofocus)
-- [YouTube](https://www.youtube.com/demofocus)
+- [demofocusRB on X](https://x.com/demofocusRB)
+- [demofocus on Roblox](https://www.roblox.com/users/1629330294/profile)
+- [demofocus on Twitch](https://www.twitch.tv/demofocus)
+- [demofocus on YouTube](https://www.youtube.com/demofocus)
