@@ -8,7 +8,7 @@ I've held high profile roles in groups such as [Trade.](https://www.roblox.com/c
 
 I enjoy working in the Ro-Football genre these days, constantly trying to improve my knowledge and understanding of how things work and how I can improve the genre for the better.
 
-I've worked on the following over the years:
+## 🔨 Work / Contributions:
 
 - [Tactical Football (Coming Soon)](https://www.roblox.com/games/101002292692997/IN-DEV-Tactical-Football)
 - [TRS | Public Pitch](https://www.roblox.com/games/14165106859/TRS-Public-Pitch)
