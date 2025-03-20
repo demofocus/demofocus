@@ -6,7 +6,7 @@ Over the years I have gained experience in sword clans, trading, QA testing and 
 
 I've held high profile roles in groups such as [Trade.](https://www.roblox.com/communities/650266/Trade#!/about), [The Sky Clan of Roblox](https://www.roblox.com/communities/129425/The-Sky-Clan-of-ROBLOX#!/about) and most major sword clans of the early-mid 2010s.
 
-I enjoy working in the Ro-Football genre these days, constantly trying to improve my knowledge and understanding of how things work and how I can improve the genre for the better.
+I am finishing up my full-time work in the Ro-Football community, and I am excited to work on new projects!
 
 ## 🔨 Work / Contributions:
 
