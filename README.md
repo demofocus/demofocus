@@ -6,11 +6,9 @@ Over the years I have gained experience in sword clans, trading, QA testing and 
 
 I've held high profile roles in groups such as [Trade.](https://www.roblox.com/communities/650266/Trade#!/about), [The Sky Clan of Roblox](https://www.roblox.com/communities/129425/The-Sky-Clan-of-ROBLOX#!/about) and most major sword clans of the early-mid 2010s.
 
-I am finishing up my full-time work in the Ro-Football community, and I am excited to work on new projects!
-
 ## 🔨 Work / Contributions:
 
-- [Football Evolution(WORK IN PROGRESS)](https://www.roblox.com/games/101002292692997/IN-DEV-Football-Evolution)
+- [Football Evolution (WORK IN PROGRESS)](https://www.roblox.com/games/101002292692997/IN-DEV-Football-Evolution)
 - [TRS | Public Pitch](https://www.roblox.com/games/14165106859/TRS-Public-Pitch)
 - [TRS | Super Soccer](https://www.roblox.com/games/9505950821/TRS-Super-Soccer-ALPHA)
 - [TPS: Street Soccer](https://www.roblox.com/games/335760407/TPS-Street-Soccer)
