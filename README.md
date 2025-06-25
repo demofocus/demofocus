@@ -15,6 +15,9 @@ I've held high profile roles in groups such as [Trade.](https://www.roblox.com/c
 - [TPS: Ultimate Soccer](https://www.roblox.com/games/5783581/TPS-Ultimate-Soccer)
 - [TPS: Infinite Soccer](https://www.roblox.com/games/15862383840/TPS-Infinite-Soccer)
 
+  ## Public Releases
+  [SoundtrackController - A comprehensive object-orientated module for managing game soundtracks and audio](https://github.com/demofocus/SoundtrackController)
+
 # 📱 Socials
 
 - [demofocusRB on X](https://x.com/demofocusRB)
