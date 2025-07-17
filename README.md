@@ -9,6 +9,8 @@ I've held high profile roles in groups such as [Trade.](https://www.roblox.com/c
 ## 🔨 Work / Contributions:
 
 - [Football Evolution (WORK IN PROGRESS)](https://www.roblox.com/games/101002292692997/IN-DEV-Football-Evolution)
+- [DROP! (WORK IN PROGRESS)](https://www.roblox.com/games/122094317268993/DROP)
+- [Epic Brainrot Obby](https://www.roblox.com/games/102255356593830/EPIC-Brainrot-Obby)
 - [TRS | Public Pitch](https://www.roblox.com/games/14165106859/TRS-Public-Pitch)
 - [TRS | Super Soccer](https://www.roblox.com/games/9505950821/TRS-Super-Soccer-ALPHA)
 - [TPS: Street Soccer](https://www.roblox.com/games/335760407/TPS-Street-Soccer)
